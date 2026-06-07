@@ -1,198 +1,56 @@
 # 写作篇
 
-写作是英语输出的重要形式之一。通过写作，你可以巩固所学的词汇和语法，提升逻辑表达能力，同时为考试和工作做好准备。
+你好，欢迎来到离谱的英语学习指南。这是我2017年开始的一个项目，目的是分享我如何提高英语水平的经验和技巧。这个系列一直受到很多人的喜爱，甚至让我成为了 `有着很多star的 markdown 工程师`，不过因为年少轻狂，忙着泡妞、创业、到处装B等原因，我在2019年之后就几乎停更了。
 
----
+![开度假酒店](/assets/hotel.jpg)
 
-## 为什么写作很重要？
+其实我本来想放弃这个系列的，因为我觉得自己不够资格去谈论写作，直到最近我[分享创业失败的一篇文章](https://zhuanlan.zhihu.com/p/653380203)获得了巨大的关注，我收到了很多有力量的回复，它让我感动和鼓舞，也让我决定完成这个遗失的章节。
 
-- **巩固知识**：写作迫使你主动运用所学的词汇和语法
-- **提升逻辑**：写作需要组织语言，锻炼逻辑思维
-- **发现不足**：写作能暴露你在词汇、语法、表达方面的短板
-- **考试需要**：雅思、托福、四六级都有写作部分
-- **工作需要**：邮件、报告、文档都需要写作能力
+![交流](/assets/nice-comment.png)
 
----
 
-## 写作基础
+写作既是一种能力，也是一种艺术。它可以帮你表达思想和情感，传播知识和智慧，也可以让你享受创造和成就，贡献价值和意义。要写出好文章，不是一朝一夕的事，纵观目前市面上很多高赞的文章和视频，本篇不讨论学术文献，聚焦于大众的写作范畴，我认为以下几个要素是值得讨论的。
 
-### 句子写作
+![油管参考](/assets/writing-skills.png)
 
-从简单句开始，逐步增加复杂度：
+## 阅读
+阅读是写作的基础，它可以让你学习不同的文体、风格和技巧，也可以拓展你的知识面和视野。阅读要广博而精选，要根据兴趣和目标选择合适的书籍或文章，要洞察和评判作者的观点、论据和文采。
 
-**简单句**：
-- I love English.
-- She is a student.
-- They play basketball.
 
-**复合句**：
-- I love English because it opens doors to the world.
-- She is a student who studies hard every day.
-- They play basketball after school when the weather is nice.
+## 练习
+练习是写作的核心，它可以让你发现自己的优缺点，找到自己的风格和声音。练习要多姿多彩而有目的性，要根据水平和需求选择合适的题目或话题，要审视和完善自己的作品。
 
-**复杂句**：
-- Although I love English, I find it challenging to speak fluently.
-- She is a student who studies hard every day, which is why she always gets good grades.
-- They play basketball after school when the weather is nice, but they stay indoors when it rains.
+## 交流
 
-### 段落写作
+交流是写作的催化剂，它可以让你得到他人的反馈和建议，也可以与他人分享你的想法和感受。交流要主动而真诚，要勇于展现自己的作品，要尊重和欣赏他人的作品。
 
-一个完整的段落应该包含：
+## 工具
 
-1. **主题句**（Topic Sentence）：表达段落主旨
-2. **支持句**（Supporting Sentences）：提供细节和例子
-3. **总结句**（Concluding Sentence）：总结段落内容
-
-**示例**：
-
-> Reading is important for language learning. First, it helps you expand your vocabulary by exposing you to new words in context. Second, it improves your understanding of grammar structures. Finally, it develops your sense of the language and helps you think in English. Therefore, make reading a daily habit.
-
----
-
-## 常见写作类型
-
-### 1. 记叙文（Narrative）
-
-讲述一个故事或经历：
-
-- 时间顺序
-- 人物、地点、事件
-- 细节描写
-- 个人感受
-
-### 2. 议论文（Argumentative）
-
-表达观点并论证：
-
-- 明确的观点
-- 充分的论据
-- 逻辑清晰
-- 反驳对立观点
-
-### 3. 说明文（Expository）
-
-解释或说明某个主题：
-
-- 客观描述
-- 条理清晰
-- 使用例子和数据
-- 避免主观色彩
-
-### 4. 应用文（Practical）
-
-实际应用中的写作：
-
-- 邮件
-- 简历
-- 报告
-- 通知
-
----
-
-## 写作技巧
-
-### 1. 多读多写
-
-阅读是写作的基础。通过阅读，你可以学习优秀的表达方式和句式结构。
-
-### 2. 使用连接词
-
-使用连接词使文章更连贯：
-
-| 功能 | 连接词 |
-|------|--------|
-| 并列 | and, also, moreover, furthermore |
-| 转折 | but, however, nevertheless, on the other hand |
-| 因果 | because, therefore, as a result, consequently |
-| 举例 | for example, for instance, such as |
-| 总结 | in conclusion, to sum up, overall |
-
-### 3. 避免中式英语
-
-常见的中式英语及纠正：
-
-| 中式英语 | 正确表达 |
-|----------|----------|
-| I very like English. | I like English very much. |
-| My English is poor. | My English is not very good. |
-| I think it is not right. | I don't think it is right. |
-
-### 4. 多用主动语态
-
-主动语态比被动语态更直接有力：
-
-- ❌ The book was read by me.
-- ✅ I read the book.
-
-### 5. 简洁明了
-
-避免冗长复杂的句子：
-
-- ❌ In my personal opinion, I think that we should...
-- ✅ I think we should...
-
----
-
-## 写作练习方法
-
-### 1. 写日记
-
-每天用英文写日记，记录生活和感受：
-
-- 不需要太长，3-5 句话即可
-- 注重表达，而不是语法正确
-- 坚持每天写
-
-### 2. 模仿写作
-
-选择优秀的英文文章，模仿其结构和表达：
-
-- 分析文章结构
-- 学习句式和词汇
-- 尝试写类似主题的文章
-
-### 3. 改写练习
-
-用自己的话改写一段文字：
-
-- 保持原意
-- 使用不同的词汇和句式
-- 提升表达能力
-
-### 4. 定时写作
-
-给自己限时写作，提升写作速度：
-
-- 选择一个话题
-- 限时 20-30 分钟
-- 写完后检查修改
-
----
-
-## 写作工具
-
-- **Grammarly**：语法检查工具
-- **Hemingway Editor**：简化句子的工具
-- **Thesaurus**：同义词词典
-- **QuillBot**：改写工具
-
-### AI 辅助写作
-
+使用AI改写文章是一种新兴而又有趣的现象，它展示了人工智能在语言领域的强大能力和潜在价值，也引发了人们对于写作本质和意义的思考和探讨。使用这类工具可以帮我们发现一些问题，你可以询问修改意见并做参考。
+> 例如本文就向AI询问了修改意见
 ![ChatGPT](/assets/chatgpt.png)
-
 ![AIGC](/assets/aigc.png)
 
-AI 工具（如 ChatGPT、Claude 等）可以辅助写作，但要注意：
-- AI 是辅助工具，不能替代自己的思考
-- 用 AI 检查语法和表达，而不是直接让 AI 写
-- 通过 AI 的修改建议来学习和提升
+## 创新
 
----
+创新是写作的灵魂，它可以让你的文章更有个性、特色、吸引力。创新要敢为人先而有方法，要根据主题和目的选择合适的创新方式，要在创新与传统、规范与突破之间找到平衡点。
 
-::: tip 写作建议
-1. **每天练习**：哪怕只写几句话，也比不写好
-2. **多读多写**：阅读是写作的基础
-3. **接受修改**：写完后要检查和修改
-4. **寻求反馈**：让别人帮你看看，指出问题
-5. **保持耐心**：写作能力的提升需要时间
-:::
+### 标题党
+创新，应该是正向的，而不是让你做标题党。 虽然标题党有着以下几个优势：
+- 增加文章的点击率和流量，从而增加作者或平台的收入和影响力。
+- 激发读者的好奇心和情感，激发他们的阅读兴趣和参与度。
+- 突出文章的主题和特色，与其他文章形成差异化和竞争力。 
+
+但他们的坏处可能更加可怕：
+- 削弱文章的真实性和可信度，造成读者的失望和反感。
+- 扭曲读者对事实的认知和判断，影响他们的价值观和行为选择。
+- 破坏网络信息的秩序和规范，损害媒体的公信力和社会的风气。 
+
+文章标题党是一把双刃剑，它既可以为作者或平台带来一定的收益，也可以为读者或社会带来一定的风险。因此，作为作者或平台，应该谨慎使用标题党，避免过度夸张或误导，尊重事实和读者。 
+在我多年的写作生涯中，我一直希望自己能做个真诚的人，不要为了点击而欺骗读者。如果哪天我变了，请你狠狠地教训我。
+
+## 结语
+
+在文章的最后，我想对大家说：这个世界已经够吵闹了，如果真的不是生活所迫，那就别再制造更多的噪音了。
+
+> 不过，不得不承认，本文也是一个噪音，哈哈。
