@@ -107,10 +107,6 @@ An advanced guide to learn English which might benefit you a lot.
 
 ---
 
-## 番外篇
-
-聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)。
-
 ---
 
 ## 在线阅读
