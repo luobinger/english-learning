@@ -135,7 +135,7 @@ onUnmounted(() => {
           <div class="hp-bg-stat"><span class="hp-bg-sn">26</span><span class="hp-bg-sl">门课 &middot; 一学期通过</span></div>
           <div class="hp-bg-stat"><span class="hp-bg-sn">2</span><span class="hp-bg-sl">门省第一 &middot; 高考江苏卷</span></div>
           <div class="hp-bg-stat"><span class="hp-bg-sn">2017</span><span class="hp-bg-sl">年至今 &middot; 持续更新</span></div>
-          <blockquote class="hp-bg-card-quote">我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。</blockquote>
+          <blockquote class="hp-bg-card-quote">学而不思则罔，思而不学则殆。</blockquote>
         </div>
       </div>
     </div>
