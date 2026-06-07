@@ -28,31 +28,31 @@
 我想给出建议是，视觉化背单词应该采用 _抽象_ 的方法，将单词对应的视觉信息抽象成你理解的事物。
 举个例子:'cat' => '猫';单词软件会给你提供某个具体的关于猫的图片，如
 
-![cat.jpg](https://ooo.0o0.ooo/2017/06/01/592f5682b7c4e.jpg)
+![cat.jpg](/assets/cat.jpg)
 
 但是这可能并不是你理解的猫，因为在其实你的脑海里有一个你抽象后的形象代表猫，他可能是这样的:
 
-![cat-2.jpeg](https://ooo.0o0.ooo/2017/06/01/592f576499947.jpeg)
+![cat-2.jpeg](/assets/cat-2.jpeg)
 
 也可能是这样的:
 
-![cat-cartoons.jpeg](https://ooo.0o0.ooo/2017/06/01/592f58e70bd20.jpeg)
+![cat-cartoons.jpeg](/assets/cat-cartoons.jpeg)
 
 也可能是这样的:
 
-![cat-s.jpg](https://ooo.0o0.ooo/2017/06/01/592f5966b14cb.jpg)
+![cat-s.jpg](/assets/cat-s.jpg)
 
 也可能是这样的:
 
-![cat-ss.jpg](https://ooo.0o0.ooo/2017/06/01/592f59e1f2b57.jpg)
+![cat-ss.jpg](/assets/cat-ss.jpg)
 
 甚至是这样的（他会是你所能手绘出来的图像）:
 
-![cat-sss.jpg](https://ooo.0o0.ooo/2017/06/01/592f5a1aa430f.jpg)
+![cat-sss.jpg](/assets/cat-sss.jpg)
 
 当然也有可能是这样的:
 
-![cat-girl.jpg](https://ooo.0o0.ooo/2017/06/01/592f5b1774ed2.jpg)
+![cat-girl.jpg](/assets/cat-girl.jpg)
 
 将单词通过 _抽象_ 的方法去视觉化可以更好帮助你将单词与单词的涵义联系起来。
 
@@ -110,7 +110,7 @@ Ronnie 老师有一篇关于记单词的视频，[YouTube 链接](https://www.yo
 这一曲线最早由心理学家赫尔曼·艾宾浩斯通过自己的实验提出。在这一实验中，艾宾浩斯使用了一些毫无意义的字母组合。通过记忆这些字母组合，并在一系列时间间隔后检查遗忘率，得到了这一曲线。
 因此，这一曲线又叫[艾宾浩斯遗忘曲线](https://zh.wikipedia.org/wiki/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF)。
 
-![艾宾浩斯记忆曲线](https://upload.wikimedia.org/wikipedia/commons/4/4e/ForgettingCurve.svg)
+![艾宾浩斯记忆曲线](/assets/ForgettingCurve.svg)
 
 该曲线表明：遗忘进程是不均衡的，在识记的最初遗忘很快，以后逐渐缓慢，到了相当的时间，几乎就不再遗忘了，也就是遗忘的发展是"先快后慢"。
 遗忘的进程不仅受时间因素的制约，也受其他因素的制约。学生最先遗忘的是没有重要意义的、不感兴趣、不需要的材料。不熟悉的比熟悉的遗忘的要早。一般记住后，在 5 分钟后重复一遍，20 分钟后再重复一遍，1 小时后，12 小时后，1 天后，2 天后，5 天后，8 天后，14 天后就会记得很牢：
@@ -141,7 +141,7 @@ Ronnie 老师有一篇关于记单词的视频，[YouTube 链接](https://www.yo
 每一次复习，如果某个单词确定自己掌握了，形成了长期记忆，那就将这个单词从单词本中划掉。
 你甚至可以在单词附近做一些记号，比如用 三角形 代表"这是个有趣的单词"，圆 代表"这是最近看的某本书或某个视频里面的"，耳朵 符号表示"发音比较没把握"等：
 
-![单词本示意图.jpg](https://ooo.0o0.ooo/2017/06/05/593516103b8a9.jpg)
+![单词本示意图.jpg](/assets/word-notebook.jpg)
 
 这个习惯我一直保留至今(从 2010 年 12 开始)，只不过我不再用纸质的本子，而是将其同步到了词典软件上，每天午休期间和晚上健身后翻翻。
 我搭配使用上面介绍的两种背单词的方法，因为当你的单词本单词达到 500 甚至更多的时候，你需要尽可能复习更多的单词。
@@ -203,9 +203,9 @@ Ronnie 老师有一篇关于记单词的视频，[YouTube 链接](https://www.yo
 
 ## 推荐的单词书
 
-- [![英语常用词疑难用法手册](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
-- [![17天搞定GRE单词](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
-- [![Merriam-Webster's Vocabulary Builder](https://img3.doubanio.com/lpic/s4339900.jpg)](https://book.douban.com/subject/4759840/)
+- [![英语常用词疑难用法手册](/assets/book-vocab-troubleshoot.jpg)](https://book.douban.com/subject/5038844/)
+- [![17天搞定GRE单词](/assets/book-17days-gre.jpg)](https://book.douban.com/subject/1803504/)
+- [![Merriam-Webster's Vocabulary Builder](/assets/book-merriam-webster.jpg)](https://book.douban.com/subject/4759840/)
 
   这本书适合具有一定词汇量基础的人（大约 7000），也是备考托福和 GRE 时被推荐较多的词法书，俗称韦氏小绿书。
   在很多人的印象里面，韦氏小绿书似乎就是一本用来记词根词缀的书，但这本书真正的价值并不在于此。
