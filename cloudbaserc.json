@@ -1,0 +1,16 @@
+{
+  "envId": "cloudbase-d8garuhmo3f952c51",
+  "functionRoot": "cloudfunctions",
+  "functions": [
+    {
+      "name": "image-proxy",
+      "handler": "index.main",
+      "runtime": "Nodejs18.15",
+      "timeout": 30,
+      "memorySize": 256,
+      "installDependency": true,
+      "isHTTP": true,
+      "ignore": ["node_modules/**"]
+    }
+  ]
+}
