@@ -1,155 +1,326 @@
 # Understanding
 
-This chapter discusses the mindset and approach you should adopt before starting to learn English systematically.
+This chapter is about mindset. Before you grind vocabulary and drills, it's worth getting a few things straight—otherwise you'll work hard, feel miserable, and still get stuck.
 
 ---
 
-## Key Takeaways
+## TL;DR
 
-- Clarify: **Why do you want to learn English?** Set clear learning goals.
-- Realize: **Passive input (reading, listening) is not enough.** You need more "doing, speaking, output."
-- Learn to set **reasonable scenarios and rhythms** for yourself, rather than relying on overdrawing sleep and energy.
-- Learn to **understand and gently treat your emotions**, rather than just using motivation and guilt.
-- Build yourself a **safe, immersive English environment**, as natural as brushing your teeth.
+- Get clear on **why you want English** and what you want it for.
+- **Input alone isn't enough**. You need output: speaking, writing, using the language.
+- Pick a **realistic pace and real scenarios**—don't trade sleep for "feeling hardworking".
+- Learn to **notice your emotions** instead of letting guilt drive everything.
+- Build a **safe, immersive English environment**—make it part of daily life.
 
-> If you currently feel guilty, anxious, or procrastinating about "learning English," this chapter will help you put these emotions in their proper place.
+If English makes you feel guilty, anxious, or stuck in procrastination, this chapter is basically about putting those feelings back where they belong.
 
 ---
 
 ## Why We Should Learn English Well
 
-First, we should understand that **English is an extremely widely used language**. This can be seen from the language distribution of Wikipedia content.
+Let's start with a boring-but-true fact: **English is everywhere**. The language distribution of Wikipedia content gives you a pretty good hint:
 
-![Website Content Languages](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
+![WebsiteContentLanguages](/assets/WebsiteContentLanguages.svg)
 
-As the most widely used language globally, English covers almost every aspect of human life.
+English shows up in almost every corner of life:
 
-- Whether it's simple information exchange or rigorous books and papers, English accounts for a considerable proportion.
-- Learning English well is like opening a door to a new world, no longer limited by original information channels, and can see broader and richer content than the Chinese world.
+- casual chat and day-to-day information
+- books, papers, research, and serious writing
 
-If you are an internet professional, the requirements for English are even higher:
+Learning English is like getting a larger internet. You're no longer limited to what gets translated into Chinese.
 
-- New technologies, frameworks, and concepts **first appear in English**.
-- Many inappropriate translations mislead our understanding of technology or concepts.
-- But precisely because we are in this field, we have easier access to excellent tools that make English learning **more efficient and more interesting**.
+If you work in tech (or anything online), it matters even more:
 
-In other words, **learning English well is not just for exams, but to connect with a larger world**.
+- new tools, frameworks, and ideas usually appear **first in English**
+- bad translations can mislead you for years
+- but you also get access to great resources and tools that make learning faster and more fun
+
+So yeah—**it's not just about exams**. It's about access.
 
 ---
 
-## The Learning Pyramid: Why We Should "Get Moving"
+## The Learning Pyramid: Why You Need to "Move"
+
+In 1969, educator Edgar Dale proposed what people often call *The Cone of Learning*. The numbers are debated, but the message is useful: after two weeks, we tend to retain much more when we actively do something with what we learned.
+
+- reading only: ~10%
+- listening only: ~20%
+- pictures: ~30%
+- video/demonstration: ~50%
+- discussion and speaking: ~70%
+- teaching / presenting / doing: ~90%
 
 ![Cone of Learning](/assets/ConeofLearning-old.png)
 
-American scholar Edgar Dale proposed a famous "Learning Pyramid" theory in 1969. The theory suggests that two weeks after initial learning, the brain retains approximately:
+The takeaway is simple:
 
-- About 10% through reading alone
-- About 20% through listening alone
-- About 30% through seeing images
-- About 50% through watching videos/demonstrations
-- About 70% through participating in discussions, asking questions, speaking
-- About 90% through giving reports, teaching, simulating experiences, actual practice
+> Passive input (just watching and listening) is weaker than active participation (speaking, writing, explaining, using).
 
-This theory has considerable controversy in academia, and the numbers may not be accurate, but the **general direction it emphasizes is correct**:
+For languages, this is painfully obvious:
 
-> Passive input (reading, listening) is far less effective than active participation (speaking, writing, presenting, using).
+- input helps you understand
+- output is what makes it stick and makes it usable
 
-This is particularly evident in language learning:
-
-- Relying only on "reading" and "listening," understanding often stays at the surface level;
-- What you truly remember and can use is because you **looked up words, took notes, wrote sentences, spoke aloud**.
-
-Therefore, this guide will constantly remind you: **Start active output as early as possible, don't just stay at reading and listening**.
+That's why this guide keeps pushing you to **start output early**.
 
 ---
 
-## Common Learning Mistakes
+## A "Try-Hard" Story That Went Wrong
 
-### Mistake 1: Stacking Time
+Most of us grew up in exam mode: brutal schedules, early mornings, late nights. If your score goes up you feel great; if it drops, you feel guilty and panicked. You start to believe learning is supposed to hurt.
 
-Many people think learning is about "spending time"—the more time, the better the effect. But the truth is:
+In high school I lived in a high-pressure environment:
 
-- **Attention is limited.** Continuous learning for more than 2 hours causes efficiency to drop sharply.
-- **Lack of sleep seriously affects memory.** Staying up late to study is not worth it.
-- **Mechanical repetition does not equal effective learning.** The brain needs deep processing to remember.
+- my roommates were ranked No.1, No.2, and No.8 in the whole county
+- the top two were the "genius type": tiny glasses, curious face, looking like 5th graders
+- to motivate myself, I asked the teacher to move seats so I could sit next to No.1 (No.2 sat in front of me)
 
-### Mistake 2: Only Input, No Output
+My routine looked like this:
 
-Only reading without writing, only listening without speaking, is like only reading recipes without cooking:
+- wake up at 5:20, go to the track and start memorizing
+- stay in class during lunch break, then nap for a few minutes before class
+- sprint out for dinner and sprint back to grab a seat in the classroom
+- after evening study, rush to wash up, read in bed, and keep reading with a tiny lamp after lights-out
 
-- You think you "understand," but when you open your mouth, you stumble.
-- You think you "remember," but when you write, you misspell.
-- **True mastery comes from use.**
+I thought I was "saving every minute". In reality I was losing—over and over. I kept "adjusting my mindset" and pushing harder, but my grades kept dropping. At one point I fell to around rank 500 and felt hopeless.
 
-### Mistake 3: Pursuing Perfection
+I couldn't understand it:
 
-Many people are afraid of making mistakes, afraid of inaccurate pronunciation, afraid of grammar errors:
+**I'm working so hard. Why am I getting worse?**
 
-- The result is **never opening your mouth**.
-- Language learning is a process of **constantly making mistakes and constantly correcting**.
-- **Fluency is more important than accuracy.** Say it first, then slowly improve.
+Meanwhile, my desk mate used his scholarship money to buy a laptop, secretly watched American TV shows in class… and stayed No.1.
 
-### Mistake 4: Lack of Feedback
+Why?
 
-Studying alone, not knowing if it's right:
+Why?
 
-- No one corrects pronunciation errors.
-- No one points out grammar mistakes.
-- **Learning without feedback is like shooting arrows in the dark.**
+Why?
 
----
+![WHY](/assets/why.png)
 
-## The Right Learning Mindset
-
-### 1. Accept Imperfection
-
-> "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."
-> — Steve Jobs
-
-Learning English is the same: **start first, then perfect.**
-
-### 2. Enjoy the Process
-
-Don't treat learning English as a "task," but rather:
-
-- Watch TV shows you like.
-- Listen to podcasts you enjoy.
-- Read articles you're interested in.
-- **Make learning part of your life.**
-
-### 3. Set Reasonable Goals
-
-Don't start by saying "I want to be fluent in three months." Instead:
-
-- Memorize 10 words today.
-- Finish reading an article this week.
-- Learn to introduce yourself this month.
-- **Small goals, continuous progress.**
-
-### 4. Build Positive Feedback
-
-- Record your progress.
-- Reward your efforts.
-- Share learning experiences with others.
-- **Make learning a happy thing.**
+Later I realized: I wasn't "not trying hard enough". I was making a bunch of very common mistakes.
 
 ---
 
-## Summary
+## The Real Question: What Are You Learning For?
 
-The core points of this chapter:
+Ask yourself:
 
-1. **Clarify goals**: Know why you want to learn English.
-2. **Active output**: Don't just read without speaking.
-3. **Reasonable rhythm**: Don't exhaust yourself.
-4. **Accept emotions**: Allow yourself to make mistakes.
-5. **Immersive environment**: Make English part of your life.
+- Why am I learning?
+- Is it only for scores and rankings?
+- After I get a good ranking, do I actually feel calmer—or more afraid of losing it?
+- In the longer run, what kind of life do I want?
 
-In the next chapter, we'll talk about **vocabulary**—a topic that gives many people headaches.
+If the whole point of learning is to make your life better, but the way you learn makes you miserable… something's off.
+
+Sometimes all you need is a different pace:
+
+- learn in a lighter way, and your happiness goes up
+- drop the "I must suffer to be worthy" mindset, and you'll actually last longer
+
+You don't need to become a different person. You need a way of learning that you can live with.
+
+> A friend who called herself "a hopeless student" once told me this. She loved listening to music with headphones and smiling warmly—something schools often forbid. Her words helped me stop forcing myself with adrenaline and guilt, accept being ordinary, and enjoy life again.
+
+### Quick exercise: 3 questions for yourself
+
+1. If I ignore exams and rankings, what do I want English to give me?
+2. In my ideal life 5 years from now, what role does English play?
+3. What kind of learning do I genuinely enjoy?
 
 ---
 
-::: tip Further Reading
-- [Learning Pyramid Theory](https://en.wikipedia.org/wiki/Learning_pyramid)
-- [Deliberate Practice](https://en.wikipedia.org/wiki/Deliberate_practice)
-:::
+## Start With the Scenario: Where Will You Use English?
+
+Before you dive in, break down your needs. Different scenarios require different priorities.
+
+- **Exam-focused**: Gaokao, CET-4/6, postgraduate exams, TEM-8  
+  Focus: question types, scoring strategy, test-taking skills.
+- **Study abroad**: TOEFL/IELTS/GRE + daily communication  
+  Focus: balanced listening/speaking/reading/writing, academic writing, presentations, class participation.
+- **Non-exam**: work, tech, travel, self-improvement  
+  Focus: domain vocabulary, emails/docs, meetings, real expression.
+
+Write it down:
+
+> My main scenario is: ________  
+> The most urgent skill for me is: Listening / Speaking / Reading / Writing / Exam (pick 1–2)
+
+Once you have that, choosing materials and planning time becomes much easier.
+
+---
+
+## "Waking Up Early" Can Ruin Your Whole Day
+
+To squeeze in 30 minutes of morning memorization, I paid for it like this:
+
+- I was half-asleep in morning classes, so my classroom time got wasted
+- I slept at 12:30–1:00 and woke up after 5:00—my body never recovered
+- I "stole time" from the only place that mattered: actual class time
+
+Result:
+
+- I couldn't listen properly, and I couldn't even enjoy a good nap
+- it looked hardcore, but the learning quality dropped hard
+
+> Don't steal from sleep.  
+> Otherwise you won't become "a great person"—you'll just become a wreck.
+
+Back then my desk mate and I had another hobby: reading good essays.
+
+We pooled money and bought an mp3 player that could display `.txt` files. Each night one of us would read an essay aloud, and we'd fall asleep mid-discussion.
+
+That kind of learning was fun, didn't break our bodies, and honestly worked better.
+
+---
+
+## Don't Compare Yourself to Someone in Another League
+
+Besides habits, there's a more uncomfortable truth: people differ in baseline, pace, and learning ability.
+
+- if you copy a top student's schedule, you'll likely end up exhausted and ashamed every day
+- vague, unrealistic goals don't motivate—they crush confidence
+
+Don't push yourself too hard.
+
+> "There are three stages of growth:  
+> 1) realizing you're not the center of the world,  
+> 2) realizing some things are impossible no matter how hard you try,  
+> 3) accepting your ordinariness—and enjoying it." — Zhou Guoping
+
+You need goals that fit *you*, not goals that look good on someone else.
+
+---
+
+## If You Don't Enjoy It, You Won't Last
+
+Back then I wasn't really learning. I was chasing rankings.
+
+- rank goes up → a short high
+- rank goes down → instant fear, guilt, and anxiety
+
+No joy. No sustainability.
+
+Interestingly, the most effective learning often happens when you're driven by interest:
+
+- you pick up a good book, get hooked, and finish it without noticing time
+- you see someone play ukulele, start following tutorials, and a few weeks later you can play a few tunes
+
+If you can tie English to things you genuinely like:
+
+- love TV shows → watch once with Chinese subtitles, then rewatch with English subtitles
+- love tech → read docs and issues in English
+- love gossip → browse English forums
+
+…the whole process gets easier.
+
+---
+
+## A Plan Matters (and "Balanced Time" Isn't Always Smart)
+
+Learning takes strategy. "Equal time for everything" is not automatically better.
+
+My problems back then:
+
+- I didn't analyze my weak spots, so I couldn't focus
+- when something was hard, I didn't discuss or ask for help
+- I filled my day with mechanical study time but left no space for review and reflection
+
+A better approach:
+
+- identify your weak links (listening, vocabulary, writing…), and focus on 1–2 first
+- stay **output-driven**: write it, say it, use it—even if it's simple
+- review regularly: each week, look back and see what you actually kept
+
+> When I changed my method and stopped pressuring myself, my "total study time" seemed to drop—but my *effective* time went up, and my scores improved.
+
+---
+
+## Emotions: Who's Actually Controlling Your "I Don't Want to Study"?
+
+When you're learning any skill, you've probably felt this:
+
+> Some days you're unstoppable.  
+> Other days you can't focus at all and just want to scroll or game.
+
+When you say "I just don't feel like studying", what's driving that?
+
+Often it's not laziness. It's emotion.
+
+- one small thing can kill your motivation for the whole day
+- sometimes it's anxiety, fear, or anger hiding underneath
+
+Neuroscientist Joseph E. LeDoux suggests emotions like anxiety and fear travel through multiple pathways in the brain. You don't need the science details here—just this:
+
+> "Not wanting to study" is often a signal, not a moral failure.
+
+So instead of fighting yourself, try:
+
+- when you feel resistance, ask: am I tired? is it too hard? is it too boring?
+- switch the format (materials, time slot, task type) instead of forcing it
+- give yourself a little emotional buffer, then come back
+
+Movie recommendation: *Inside Out*. It explains in a simple way that emotions aren't enemies—they're messengers.
+
+---
+
+## What to Do (and What Not to Do)
+
+This guide does **not** recommend:
+
+- treating yourself like a monk and burning out
+- risky "efficiency hacks" like cramming on buses, listening while biking, or staying up all night
+- proving you're hardworking by going extreme
+
+The "results" you squeeze out with raw willpower often get paid back later—with double fatigue and health problems.
+
+> People who push too hard don't run far.
+
+This guide **does** recommend:
+
+- using methods that make sense and spending time in a stable way
+- building habits that give you more results with less effort
+- assuming you already have some English foundation (and you're not in the "English is useless" camp)
+- staying serious—but accepting this is a long game
+- trusting science, choosing a plan you can sustain, and enjoying the process
+
+---
+
+## Build an English-Friendly Environment
+
+If you can, try to live a little more "inside English":
+
+- consume media in English (e.g., YouTube instead of Bilibili)
+- follow English-speaking creators you actually care about (games, tech, fitness, crafts, movie reviews…)
+- switch your phone/OS language to English (if it won't mess up your life)
+
+Make English part of your daily background noise. Over time you'll feel more comfortable with it, and you'll tolerate mistakes better too.
+
+---
+
+## How Babies Learn Language
+
+If you watch babies, their "sentences" often look like this:
+
+- "phone mom open" → Mom, open the phone for me
+- "smells good, veggies, mom" → Mom's cooking smells great
+- "ball, little brother, run" → My brother's ball rolled away
+
+We usually understand them—and we don't laugh. We respond gently. That creates a safe environment.
+
+Same idea for you:
+
+- you speak more when the environment feels safe
+- at the beginning, it's fine to glue words together—don't obsess over perfect grammar
+- if you keep going, your brain will gradually organize those "fragments" into natural phrases
+
+So give yourself permission to speak "imperfect English", like a baby does.
+
+> If you dare to speak, you've already won half the battle.
+
+Let's start with the most basic—and most important—piece: **vocabulary**.
+
+Recommended:
+
+- [How to learn any language in six months | Chris Lonsdale | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
+- [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)

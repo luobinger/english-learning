@@ -1,131 +1,162 @@
 # Speaking
 
-Speaking is the pain point of many Chinese English learners. We have studied English for more than ten years, but often cannot even say a complete English sentence. This chapter will help you break through speaking barriers and find effective speaking practice methods.
+Speaking is where everything comes together. And yes—pronunciation matters, but you don't need to obsess. You just need a solid base and a lot of reps.
 
 ---
 
-## Why is Speaking So Difficult?
+## IPA / Phonics
 
-### 1. Lack of Language Environment
+If you want to speak better, start with pronunciation. And to learn pronunciation, you'll eventually meet IPA (phonetic symbols) or phonics.
 
-We live in a Chinese environment with few opportunities to speak English. Without a language environment, speaking naturally improves slowly.
+There's no shortcut here. The good news is: the content is limited. Learn the sounds, practice out loud, and come back to them repeatedly.
 
-### 2. Fear of Making Mistakes
+Recommended playlist:
 
-Many people are afraid of saying wrong words, inaccurate pronunciation, or grammar errors, so they simply don't speak. This psychological barrier is the biggest enemy of speaking improvement.
+- [Teach Reading with Phonics - American English Pronunciation!](https://www.youtube.com/playlist?list=PL9BB1D7256440E08B)
 
-### 3. Insufficient Input
+### Vowels (quick reference)
 
-Speaking is output, and output requires sufficient input as a foundation. If you don't listen enough or read enough, you naturally can't say much.
+- cop /ɑ/ — like "ah"
+- the /ə/ — "uh" (unstressed)
+- cup /ʌ/ — like "uh" (stressed)
+- boot /u/ — "oo"
+- book /ʊ/ — shorter "oo"
+- beat /i/ — "ee"
+- bit /ɪ/ — "ih"
+- make /eɪ/ — "ay"
+- head /e/ — "eh"
+- had /æ/ — "a" as in "cat"
+- law /ɔ/ — "aw"
+- now /aʊ/ — "ow"
+- bite /aɪ/ — "eye"
+- boy /ɔɪ/ — "oy"
+- go /oʊ/ — "oh"
 
-### 4. Lack of Practice
+### Consonants (quick reference)
 
-Speaking is a skill that requires a lot of practice to master. Just memorizing vocabulary and learning grammar is not enough.
+- web /w/
+- yes /j/
+- father /f/
+- very /v/ (like /f/ but with voice)
+- red /r/ (before a vowel)
+- car /r/ (after a vowel)
+- light /l/ (before a vowel)
+- well /l/ (after a vowel)
+- night /n/ (before a vowel)
+- pen /n/ (after a vowel)
+- mom /m/
+- sing /ŋ/
+- roads /dz/
+- let's /ts/
+- boss /s/
+- rose /z/ (voiced /s/)
+- thanks /θ/
+- them /ð/
+- just /dʒ/
+- check /tʃ/
+- she /ʃ/
+- Asia /ʒ/
+- try /tr/
+- dry /dr/
+- pet /p/
+- bed /b/
+- too /t/
+- do /d/
+- kiss /k/
+- go /g/
+- how /h/
 
----
+Channel recommendation:
 
-## Breaking Through Speaking Barriers
-
-### 1. Accept Imperfection
-
-**It's okay to make mistakes!** Everyone makes mistakes, including native speakers. The important thing is to speak, not to speak perfectly.
-
-### 2. Start with Self-Talk
-
-If you're embarrassed to speak English with others, you can start by talking to yourself:
-
-- Describe what you're doing
-- Describe what you see
-- Retell an article you just read
-- Follow audio to imitate
-
-### 3. Find a Safe Practice Environment
-
-- **Language exchange partners**: Find a foreigner who wants to learn Chinese, learn from each other
-- **English corners**: Many cities have English corner activities
-- **Online communities**: Join English learning groups
-- **AI practice partners**: Use ChatGPT, Gemini and other AI tools to practice
-
----
-
-## Speaking Practice Methods
-
-### 1. Follow and Imitate
-
-Choose an audio or video segment and follow along:
-
-- Listen several times first to familiarize yourself with the content
-- Follow sentence by sentence, paying attention to pronunciation and intonation
-- Try synchronous following, imitating speed
-- Record and compare to find gaps
-
-### 2. Shadowing
-
-A more advanced practice method than following:
-
-- After hearing audio, delay 1-2 seconds and follow along
-- Don't look at text, rely entirely on listening
-- Imitate pronunciation, intonation, rhythm
-- Gradually increase difficulty
-
-### 3. Retelling Practice
-
-After listening to or reading a piece of content, retell it in your own words:
-
-- Use your own vocabulary and sentence patterns
-- Don't translate word by word
-- Focus on expressing meaning, not grammatical correctness
-- Gradually increase the length and complexity of retelling
-
-### 4. Topic Practice
-
-Choose a topic and speak about it for 2-3 minutes:
-
-- Preparation time: 1 minute
-- Speaking time: 2-3 minutes
-- Record and listen back
-- Find areas for improvement
+- [EnglishAnyone](https://www.youtube.com/user/EnglishAnyone) (great for speaking practice)
 
 ---
 
-## Pronunciation Improvement
+## Speak Out Loud
 
-### Phonetic Learning
+Speaking quietly and speaking out loud are very different.
 
-Learn the International Phonetic Alphabet (IPA) and understand the pronunciation method of each phoneme:
+Using *New Concept English* Book 3/4 as an example:
 
-- Vowels: monophthongs, diphthongs
-- Consonants: voiceless consonants, voiced consonants
-- Linking, weak forms, loss of plosion
-
-### Common Pronunciation Problems
-
-Common pronunciation problems for Chinese learners:
-
-| Problem | Example | Correct Pronunciation |
-|---------|---------|----------------------|
-| th sound | think → sink | Tongue tip between teeth |
-| v/w confusion | very → wery | v is a labiodental sound |
-| l/n confusion | light → night | l is a tongue tip sound |
-| r/l confusion | right → light | r is a retroflex sound |
-
-### Pronunciation Resources
-
-- **Forvo**: Real human pronunciation dictionary
-- **YouGlish**: Learn pronunciation through videos
-- **Rachel's English**: American pronunciation tutorial
-- **BBC Learning English**: British pronunciation tutorial
+1. listen carefully first
+2. read out loud
+3. at the beginning, don't worry about linking or pausing—just focus on clear, accurate sounds
+4. once you can read smoothly, start mimicking the speaker's rhythm and intonation
 
 ---
 
-::: tip Speaking Advice
-1. **Speak daily**: Even speaking only 5 minutes is better than not speaking
-2. **Record and listen back**: Find problems, continuously improve
-3. **Imitate native speakers**: Learn authentic expressions
-4. **Don't fear mistakes**: Errors are part of learning
-5. **Find someone to practice with**: Conversing with real people is most effective
-:::
+## Real Conversations: The "Yeah… yeah… yeah" Phase
 
-::: warning Note
-Speaking improvement requires time and lots of practice. Don't expect huge progress in the short term. Be patient and keep practicing.
-:::
+When you first try to communicate in pure English, it's common to feel this awkward gap:
+
+In your head you want to say:
+
+"I can't believe we think the same way."
+
+But what comes out is just:
+
+"Yeah."
+
+And then:
+
+"Yeah… yeah… yeah…"
+
+This is normal.
+
+Many people speak like this at first:
+
+1) think in Chinese  
+2) translate into English in their head  
+3) search for the right word  
+4) get stuck and freeze
+
+After enough listening and speaking practice, your brain starts building "reflex phrases". In certain situations you'll respond instantly without translating.
+
+(The simplest proof is that people can blurt out things like "f**k" and "sh*t" without any effort.)
+
+---
+
+## Sing English Songs
+
+If you're already in love with melodies, why not sing?
+
+Lately I've been into Troye Sivan. Here's a simple way to practice:
+
+- organize the lyrics
+- write down unknown words and learn them first
+- sing along (yes, I actually bought a microphone)
+
+![microphone](/assets/microphone.jpg)
+
+Clear motivation + strong goal + real interest = surprisingly good results.
+
+---
+
+## Prepare Common Questions for Yourself
+
+To build "English intuition", prepare a set of common topics and practice them repeatedly until you can speak smoothly and reorder sentences freely:
+
+- introduce yourself
+- introduce your hometown
+- how life has been recently
+- a few things that make you happiest
+- a small but unforgettable memory
+- your opinion on a product (e.g., iPad Pro)
+
+---
+
+## Recommended YouTube Channels
+
+- [EnglishAnyone](https://www.youtube.com/user/EnglishAnyone)
+- [Speak English With Vanessa](https://www.youtube.com/user/theteachervanessa)
+- [Doing English with Julian Northbrook](https://www.youtube.com/user/doingenglishDOTcom)
+- [A.J. Hoge](https://www.youtube.com/c/AJHogeEffortlessEnglish)
+- [AccurateEnglish](https://www.youtube.com/channel/UCMTcsanYhBtOb096XegDZQA)
+
+Less is more. Pick a few and practice a lot. If you have great channels to recommend, open an issue.
+
+---
+
+## Be Brave: Talk to Strangers
+
+- [Why we're afraid to talk to strangers](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)

@@ -1,119 +1,105 @@
 # Reading
 
-Reading is an important way to improve comprehensive English ability. Through reading, you can expand vocabulary, learn grammar structures, understand cultural background, and cultivate English thinking.
+---
+
+## Intensive vs. Extensive Reading
+
+### Intensive reading
+
+Short but dense writing is great for intensive reading—*The Economist* is a classic example.
+
+If you skim an Economist-style article, you'll only get the surface. The structure, subtext, and sharp opinions are where the value is.
+
+Treat intensive reading like tasting: look things up, reread, and try to figure out why the author chose those words.
+
+### Extensive reading
+
+Beautiful novels are perfect for extensive reading—*Animal Farm*, for example.
+
+This is more about enjoyment. Sometimes the first few lines hook you so hard you can't stop.
+
+Don't turn it into homework:
+
+- no strict plan
+- no rushing to "finish the book"
+- go with your mood and enjoy it
+
+Also: start with something manageable. Jumping straight into *A Song of Ice and Fire* is a fast way to get crushed by unknown words and quit.
 
 ---
 
-## The Importance of Reading
+## Recommended English Books
 
-- **Expand vocabulary**: Learn words in context, memory is deeper
-- **Learn grammar**: Naturally master grammar rules through extensive reading
-- **Cultivate language sense**: Familiarize yourself with English expression patterns and thinking modes
-- **Understand culture**: Deeply understand the culture and way of thinking in English-speaking countries
+To help you get started, here are a few books across different difficulty levels (inspired by various English-learning YouTube channels):
 
----
+- [Animal Farm (动物庄园) — George Orwell](https://book.douban.com/subject/10956502/)
 
-## Graded Reading Strategy
+  A famous political allegory and dystopian fable. Widely translated and adapted, and often recognized as one of the great political satires of the 20th century.
 
-### Beginner Level (Vocabulary 0-3000)
+- [The Curious Incident of the Dog in the Night-time — Mark Haddon](https://book.douban.com/subject/23546652/)
 
-Choose simple and easy-to-understand materials to build reading confidence:
+  One of its best parts is the narrative voice. The protagonist's logic is consistently mathematical, and that reasoning style drives the story forward.
 
-- **Graded readers**: Oxford Bookworms, Cambridge English Readers
-- **Children's literature**: Charlotte's Web, The Little Prince
-- **Simple news**: News in Levels, Breaking News English
+- [The Diary of a Young Girl — Anne Frank](https://book.douban.com/subject/1341074/)
 
-### Intermediate Level (Vocabulary 3000-7000)
+  There are many WWII stories, but Anne Frank's diary remains one of the most moving. Her writing ability is genuinely impressive and makes this a great step-up read.
 
-Gradually increase difficulty and expand reading range:
+- [Harry Potter series (哈利波特系列) — J. K. Rowling](https://book.douban.com/subject/1340758/)
 
-- **Young adult literature**: Harry Potter series, The Hunger Games
-- **Popular fiction**: The Kite Runner, The Curious Incident of the Dog in the Night-Time
-- **Magazine articles**: Time, National Geographic
-- **News websites**: BBC News, CNN
+  Needs no introduction. Don't be allergic to popular fiction—this series has helped a lot of learners build reading stamina.
 
-### Advanced Level (Vocabulary 7000+)
+- [The Kite Runner (追风筝的人) — Khaled Hosseini](https://book.douban.com/subject/1772158/)
 
-Challenge high-difficulty materials and improve reading depth:
+  Emotionally powerful and hard to forget. It's the kind of novel that can make everything else you read afterward feel a bit pale for a while.
 
-- **Classic literature**: Pride and Prejudice, 1984, To Kill a Mockingbird
-- **Professional books**: Sapiens, Thinking, Fast and Slow
-- **Academic papers**: Papers related to your major
-- **High-end magazines**: The Economist, The New Yorker, The Atlantic
+- [On Writing Well — William Zinsser](https://book.douban.com/subject/4740002/)
+
+  It's a book about writing, but also an excellent reading resource. The author teaches writing like a craft—clear, honest, and structured. This one is worth intensive reading, so it's listed last.
+
+> If you've already read the Chinese translation of a book, it often helps a lot before you read the original English version.
 
 ---
 
-## Reading Skills
+## WeChat Official Accounts
 
-### 1. Don't Look Up Every New Word
+I rarely use WeChat, so I'll only recommend two that I've actually read:
 
-When encountering new words, first try to infer the meaning from context. If the word appears repeatedly and affects understanding, then look it up.
+- 英文悦读
+- 独霸上海的妖怪
 
-### 2. Take Reading Notes
-
-Record:
-- New words and phrases
-- Beautiful sentences
-- Interesting expressions
-- Your thoughts
-
-### 3. Review Regularly
-
-Regularly review reading notes to consolidate learned knowledge.
-
-### 4. Diversify Reading
-
-Don't only read one type of material. Try different topics and genres:
-
-- Fiction
-- Non-fiction
-- News
-- Science popularization
-- History
-- Philosophy
+If you have good recommendations, open an issue and I'll consider adding them after reading.
 
 ---
 
-## Recommended Reading List
+## How to Read English Documentation
 
-### Beginner Level
+When reading docs, you'll inevitably hit new words. If you're seeing more than ~5 unknown words in a small section, pause.
 
-| Title | Author | Difficulty |
-|-------|--------|------------|
-| Charlotte's Web | E.B. White | ⭐⭐ |
-| The Little Prince | Antoine de Saint-Exupéry | ⭐⭐ |
-| Wonder | R.J. Palacio | ⭐⭐⭐ |
+- write the words down
+- look them up one by one
+- try to remember them before continuing
 
-### Intermediate Level
+For technical terms, be extra careful:
 
-| Title | Author | Difficulty |
-|-------|--------|------------|
-| Harry Potter Series | J.K. Rowling | ⭐⭐⭐ |
-| The Kite Runner | Khaled Hosseini | ⭐⭐⭐⭐ |
-| 1984 | George Orwell | ⭐⭐⭐⭐ |
+- read definitions and examples
+- if you still don't get it, search for good explanations (including Chinese blogs when useful)
 
-### Advanced Level
+If you use tools to pre-extract unknown words from a document and learn them first, reading becomes much smoother.
 
-| Title | Author | Difficulty |
-|-------|--------|------------|
-| Pride and Prejudice | Jane Austen | ⭐⭐⭐⭐⭐ |
-| Sapiens | Yuval Noah Harari | ⭐⭐⭐⭐⭐ |
-| Thinking, Fast and Slow | Daniel Kahneman | ⭐⭐⭐⭐⭐ |
+> Kindle isn't great for technical PDFs: fonts are often too small and it's tiring for your eyes. An iPad usually works better.
 
 ---
 
-## Digital Reading Tools
+## Medium, Quora, Reddit, Hacker News, Stack Overflow
 
-- **Kindle**: Supports word lookup, notes, highlights
-- **WeChat Reading**: Has some English books
-- **Douban Reading**: Bilingual Chinese-English books
-- **Project Gutenberg**: Free e-books
+- [Medium](https://www.medium.com): great articles on tech, design, and life. Good for broadening your mind and improving execution.
+- [Quora](https://www.quora.com): global Q&A. Top stories often have surprisingly moving answers.
+- [Reddit](https://www.reddit.com): the "front page of the internet". News and gossip included.
+- [Hacker News](https://news.ycombinator.com/): a must for people in tech.
+- [Stack Overflow](https://www.stackoverflow.com/): the place to solve technical problems.
 
 ---
 
-::: tip Reading Advice
-1. **Persist daily**: Even reading only 10 minutes is better than not reading
-2. **Choose interesting materials**: Interest is the best teacher
-3. **Don't rush**: Reading ability improvement takes time
-4. **Enjoy reading**: Treat reading as a pleasure, not a task
-:::
+## Reference Book
+
+[![英语阅读参考手册](/assets/reading-ref.jpg)](https://book.douban.com/subject/4720475/)

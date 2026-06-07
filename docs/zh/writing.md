@@ -28,7 +28,7 @@
 
 使用AI改写文章是一种新兴而又有趣的现象，它展示了人工智能在语言领域的强大能力和潜在价值，也引发了人们对于写作本质和意义的思考和探讨。使用这类工具可以帮我们发现一些问题，你可以询问修改意见并做参考。
 > 例如本文就向AI询问了修改意见
-![ChatGPT](/assets/chatgpt.png)
+![New Bing](/assets/chatgpt.png)
 ![AIGC](/assets/aigc.png)
 
 ## 创新

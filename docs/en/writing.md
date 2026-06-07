@@ -1,198 +1,99 @@
 # Writing
 
-Writing is one of the important forms of English output. Through writing, you can consolidate learned vocabulary and grammar, improve logical expression ability, and prepare for exams and work.
+Hi—welcome to *English Level-up Tips*.
+
+I started this project back in 2017 to share the ways I improved my English. It got more love than I expected (I even became "that markdown engineer with a lot of stars"), but after 2019 I basically stopped updating—because I was young, busy chasing girls, trying startups, and doing other "look at me" things.
+
+![hotel](/assets/hotel.jpg)
+
+Honestly, I once thought I should just drop the writing chapter. I didn't feel qualified to talk about writing.
+
+That changed recently, after I published a piece about a failed startup and got a surprising amount of attention. The replies I received were powerful—supportive, thoughtful, and motivating. So I decided to come back and finish this missing chapter.
+
+![comments](/assets/nice-comment.png)
+
+Writing is both a skill and an art. It helps you express thoughts and emotions, share knowledge, and create value. But good writing is not a one-week project.
+
+This chapter isn't about academic papers. It focuses on everyday writing—articles, posts, and practical communication. Here are a few ingredients that matter.
+
+![writing skills](/assets/writing-skills.png)
 
 ---
 
-## Why Writing is Important
+## Read
 
-- **Consolidate knowledge**: Writing forces you to actively use learned vocabulary and grammar
-- **Improve logic**: Writing requires organizing language and exercising logical thinking
-- **Discover shortcomings**: Writing exposes your weaknesses in vocabulary, grammar, and expression
-- **Exam requirements**: IELTS, TOEFL, CET-4/6 all have writing sections
-- **Work requirements**: Emails, reports, and documents all require writing ability
+Reading is the foundation. It teaches you styles, structure, voice, and technique—and it widens your perspective.
 
----
+Read widely, but read intentionally:
 
-## Writing Basics
-
-### Sentence Writing
-
-Start with simple sentences and gradually increase complexity:
-
-**Simple sentences**:
-- I love English.
-- She is a student.
-- They play basketball.
-
-**Compound sentences**:
-- I love English because it opens doors to the world.
-- She is a student who studies hard every day.
-- They play basketball after school when the weather is nice.
-
-**Complex sentences**:
-- Although I love English, I find it challenging to speak fluently.
-- She is a student who studies hard every day, which is why she always gets good grades.
-- They play basketball after school when the weather is nice, but they stay indoors when it rains.
-
-### Paragraph Writing
-
-A complete paragraph should contain:
-
-1. **Topic Sentence**: Expresses the main idea of the paragraph
-2. **Supporting Sentences**: Provide details and examples
-3. **Concluding Sentence**: Summarizes the paragraph content
-
-**Example**:
-
-> Reading is important for language learning. First, it helps you expand your vocabulary by exposing you to new words in context. Second, it improves your understanding of grammar structures. Finally, it develops your sense of the language and helps you think in English. Therefore, make reading a daily habit.
+- pick books/articles based on your interests and goals
+- learn to evaluate the author's arguments, logic, and writing craft
 
 ---
 
-## Common Writing Types
+## Practice
 
-### 1. Narrative
+Practice is the core. It exposes your strengths and weaknesses, and helps you find your voice.
 
-Tells a story or experience:
+Practice with variety and purpose:
 
-- Chronological order
-- Characters, setting, events
-- Detailed descriptions
-- Personal feelings
-
-### 2. Argumentative
-
-Expresses and argues a point:
-
-- Clear viewpoint
-- Sufficient evidence
-- Logical clarity
-- Refute opposing views
-
-### 3. Expository
-
-Explifies or explains a topic:
-
-- Objective description
-- Clear organization
-- Use examples and data
-- Avoid subjective coloring
-
-### 4. Practical Writing
-
-Writing in practical applications:
-
-- Emails
-- Resumes
-- Reports
-- Notices
+- choose topics that match your level and needs
+- review your own writing and keep polishing it
 
 ---
 
-## Writing Tips
+## Discuss
 
-### 1. Read More, Write More
+Discussion is a catalyst. Feedback helps you see blind spots; sharing helps you clarify your thinking.
 
-Reading is the foundation of writing. Through reading, you can learn excellent expression methods and sentence structures.
+Do it proactively and sincerely:
 
-### 2. Use Linking Words
-
-Use linking words to make articles more coherent:
-
-| Function | Linking Words |
-|----------|---------------|
-| Addition | and, also, moreover, furthermore |
-| Contrast | but, however, nevertheless, on the other hand |
-| Cause-effect | because, therefore, as a result, consequently |
-| Example | for example, for instance, such as |
-| Summary | in conclusion, to sum up, overall |
-
-### 3. Avoid Chinglish
-
-Common Chinglish and corrections:
-
-| Chinglish | Correct Expression |
-|-----------|-------------------|
-| I very like English. | I like English very much. |
-| My English is poor. | My English is not very good. |
-| I think it is not right. | I don't think it is right. |
-
-### 4. Use Active Voice More
-
-Active voice is more direct and powerful than passive voice:
-
-- ❌ The book was read by me.
-- ✅ I read the book.
-
-### 5. Be Concise
-
-Avoid long, complex sentences:
-
-- ❌ In my personal opinion, I think that we should...
-- ✅ I think we should...
+- show your work
+- respect other people's work
 
 ---
 
-## Writing Practice Methods
+## Tools
 
-### 1. Write a Diary
+Using AI to rewrite writing is a new and interesting trend. It shows how capable AI has become in language—and it also forces us to rethink what "writing" really is.
 
-Write a diary in English every day, recording life and feelings:
+Used well, it can help you spot issues. You can ask for suggestions, take what's useful, and ignore what isn't.
 
-- Doesn't need to be long, 3-5 sentences is enough
-- Focus on expression, not grammatical correctness
-- Write every day
+> For example, this chapter itself was edited with AI suggestions.
 
-### 2. Imitation Writing
-
-Choose excellent English articles and imitate their structure and expression:
-
-- Analyze article structure
-- Learn sentence patterns and vocabulary
-- Try writing articles on similar topics
-
-### 3. Rewriting Practice
-
-Rewrite a passage in your own words:
-
-- Maintain original meaning
-- Use different vocabulary and sentence patterns
-- Improve expression ability
-
-### 4. Timed Writing
-
-Give yourself limited-time writing to improve writing speed:
-
-- Choose a topic
-- Time limit: 20-30 minutes
-- Check and revise after writing
-
----
-
-## Writing Tools
-
-- **Grammarly**: Grammar checking tool
-- **Hemingway Editor**: Tool for simplifying sentences
-- **Thesaurus**: Synonym dictionary
-- **QuillBot**: Rewriting tool
-
-### AI-Assisted Writing
-
-![ChatGPT](/assets/chatgpt.png)
-
+![New Bing](/assets/chatgpt.png)
 ![AIGC](/assets/aigc.png)
 
-AI tools (like ChatGPT, Claude, etc.) can assist writing, but note:
-- AI is an辅助 tool, it cannot replace your own thinking
-- Use AI to check grammar and expression, not to write for you
-- Learn and improve through AI's revision suggestions
+---
+
+## Innovation
+
+Innovation is the soul of writing. It makes your work memorable.
+
+But innovation should be positive—not clickbait.
+
+### About clickbait titles
+
+Clickbait does have advantages:
+
+- more clicks and traffic (more money, more influence)
+- curiosity and emotional hooks (higher engagement)
+- clearer positioning and differentiation
+
+But the downsides can be much worse:
+
+- it damages credibility and disappoints readers
+- it distorts people's understanding and judgement
+- it pollutes the information environment and harms trust
+
+Clickbait is a double-edged sword. It can bring short-term gains, but also long-term risk.
+
+Personally, I'd rather stay honest. I don't want to trick readers just for clicks. If I ever become that person—please call me out.
 
 ---
 
-::: tip Writing Advice
-1. **Practice daily**: Even writing a few sentences is better than not writing
-2. **Read more, write more**: Reading is the foundation of writing
-3. **Accept revision**: Check and revise after writing
-4. **Seek feedback**: Let others look at your work and point out problems
-5. **Be patient**: Writing ability improvement takes time
-:::
+## Closing
+
+The world is already noisy. If you don't *have to* add more noise, maybe don't.
+
+> That said… this article is also noise. So yeah, guilty.

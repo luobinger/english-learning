@@ -38,6 +38,7 @@ export default defineConfig({
             { text: '口语篇', link: '/zh/speaking' },
             { text: '写作篇', link: '/zh/writing' },
             { text: 'AI 篇', link: '/zh/ai' },
+            { text: 'Real Life English', link: '/zh/week-1' },
             { text: '杂谈篇', link: '/zh/misc' }
           ]
         }
