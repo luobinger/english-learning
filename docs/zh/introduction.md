@@ -103,8 +103,6 @@ An advanced guide to learn English which might benefit you a lot.
 
 **[杂谈篇](./misc.md)** — 各种技巧和心得，关于 IT 培训、碎片化学习、Kindle 与 iPad 的思考。
 
-**[我的故事](./story.md)** — 从失眠少年到高考省第一，从挂科 19 门到一次性考过，作者的亲身经历。
-
 ---
 
 ## 感谢
@@ -116,8 +114,6 @@ An advanced guide to learn English which might benefit you a lot.
 ## 番外篇
 
 聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)。
-
-如果你想看我在创业失败后那段时间的真实经历，也可以读这篇：[我的故事](./story.md)。
 
 ---
 

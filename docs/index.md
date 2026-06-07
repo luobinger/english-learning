@@ -56,7 +56,6 @@ onMounted(() => {
       <p class="bg-desc">
         2017 年，为回答一个问题而写的随笔，最终变成了一份帮助无数人的英语学习指南。
       </p>
-      <a :href="withBase('/zh/story')" class="btn btn-ghost" style="margin-top:8px;">阅读完整故事</a>
     </div>
     <div class="bg-visual fade-in">
       <div class="bg-visual-card">
@@ -126,7 +125,7 @@ onMounted(() => {
 <section class="section" id="extended">
   <div class="section-label fade-in">Part II · 扩展内容</div>
   <h2 class="section-title fade-in">更多维度，深入探索</h2>
-  <p class="section-desc fade-in">技术词汇表、学习杂谈与作者的个人故事。</p>
+  <p class="section-desc fade-in">技术词汇表与学习杂谈。</p>
 
   <div class="chapter-grid chapter-grid-3">
     <a :href="withBase('/zh/word-list')" class="chapter-card fade-in">
@@ -138,11 +137,6 @@ onMounted(() => {
       <span class="card-num">附录</span>
       <h3>杂谈篇</h3>
       <p>各种技巧和心得，关于 IT 培训、碎片化学习、Kindle 与 iPad 的思考。</p>
-    </a>
-    <a :href="withBase('/zh/story')" class="chapter-card fade-in">
-      <span class="card-num">附录</span>
-      <h3>我的故事</h3>
-      <p>从失眠少年到高考省第一，从挂科 19 门到一次性考过，作者的亲身经历。</p>
     </a>
   </div>
 </section>

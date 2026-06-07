@@ -1,8 +1,8 @@
-const cloud = require("wx-server-sdk");
+const tcb = require("@cloudbase/node-sdk");
 const http = require("http");
 const { URL } = require("url");
 
-cloud.init({ env: cloud.DYNAMIC_CURRENT_ENV });
+const app = tcb.init({ env: process.env.CLOUDBASE_ENV_ID });
 
 const MIME_TYPES = {
   ".png": "image/png",
@@ -27,7 +27,6 @@ function sendError(res, statusCode, message) {
 }
 
 const server = http.createServer(async (req, res) => {
-  // Handle CORS preflight
   if (req.method === "OPTIONS") {
     res.writeHead(204, {
       "Access-Control-Allow-Origin": "*",
@@ -48,7 +47,7 @@ const server = http.createServer(async (req, res) => {
     }
 
     try {
-      const result = await cloud.downloadFile({ fileID: filePath });
+      const result = await app.downloadFile({ fileID: filePath });
       const mimeType = getMimeType(filePath);
 
       res.writeHead(200, {

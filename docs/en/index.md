@@ -39,7 +39,6 @@ This guide is my attempt to organize what I've learned and share it with more pe
 
 - [Word Lists](./word-list.md) - Technical vocabulary for programmers
 - [Miscellaneous](./misc.md) - Various tips and insights
-- [My Story](./story.md) - The author's personal journey
 
 ---
 

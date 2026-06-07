@@ -5,6 +5,13 @@ export default defineConfig({
   description: 'English Level Up Tips - A comprehensive guide to learning English',
   base: '/english-learning/',
   srcDir: 'docs',
+  head: [
+    ['link', { rel: 'icon', href: '/english-learning/logo.svg' }],
+    ['meta', { property: 'og:title', content: '离谱的英语学习指南' }],
+    ['meta', { property: 'og:description', content: 'English Level Up Tips - A comprehensive guide to learning English' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { name: 'twitter:card', content: 'summary' }]
+  ],
   vite: {
     build: {
       rollupOptions: {
@@ -32,8 +39,7 @@ export default defineConfig({
             { text: '写作篇', link: '/zh/writing' },
             { text: 'AI 篇', link: '/zh/ai' },
             { text: '单词本', link: '/zh/word-list' },
-            { text: '杂谈篇', link: '/zh/misc' },
-            { text: '我的故事', link: '/zh/story' }
+            { text: '杂谈篇', link: '/zh/misc' }
           ]
         }
       ],
@@ -49,11 +55,14 @@ export default defineConfig({
             { text: 'Writing', link: '/en/writing' },
             { text: 'AI', link: '/en/ai' },
             { text: 'Word List', link: '/en/word-list' },
-            { text: 'Miscellaneous', link: '/en/misc' },
-            { text: 'My Story', link: '/en/story' }
+            { text: 'Miscellaneous', link: '/en/misc' }
           ]
         }
       ]
+    },
+    footer: {
+      message: 'Released under CC BY-NC 4.0',
+      copyright: `Copyright © 2017–${new Date().getFullYear()} byoungd`
     }
   }
 })

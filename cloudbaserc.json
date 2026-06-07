@@ -8,9 +8,8 @@
       "runtime": "Nodejs18.15",
       "timeout": 30,
       "memorySize": 256,
-      "installDependency": true,
       "isHTTP": true,
-      "ignore": ["node_modules/**"]
+      "ignore": ["node_modules/**", ".git/**", "*.md"]
     }
   ]
 }

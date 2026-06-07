@@ -13,13 +13,11 @@
 ## 特性
 
 - ✨ 现代化杂志风格设计
-- 🌓 深色/浅色主题切换
+- 🌓 深色/浅色主题切换（VitePress 内置）
 - 🌍 中英文双语支持
 - 📱 响应式布局
-- 🔍 全文搜索
-- ❤️ 单词收藏功能
-- 📖 阅读进度保存
-- ⚡ 极速加载
+- 🔍 VitePress 内置全文搜索
+- ⚡ 静态站点极速加载
 
 ## 开发
 
@@ -50,18 +48,19 @@ tcb hosting deploy ./.vitepress/dist -e <your-env-id>
 ## 目录结构
 
 ```
-english-learning-web/
+04.english-learning/
 ├── .vitepress/
 │   ├── config.ts          # VitePress 配置
 │   └── theme/
 │       ├── index.ts       # 主题入口
-│       ├── custom.css     # 自定义样式
-│       └── components/    # Vue 组件
+│       └── custom.css     # 自定义样式
 ├── docs/
-│   ├── index.md           # 首页
-│   ├── zh/                # 中文内容
-│   ├── en/                # 英文内容
-│   └── public/            # 静态资源
+│   ├── index.md           # 首页（含内联样式）
+│   ├── zh/                # 中文章节（11 个 .md）
+│   ├── en/                # 英文章节（9 个 .md）
+│   └── public/            # 静态资源（logo + 41 张图片）
+├── cloudfunctions/
+│   └── image-proxy/       # 图片代理 HTTP 云函数
 ├── package.json
 └── README.md
 ```
@@ -70,15 +69,12 @@ english-learning-web/
 
 ### 颜色
 
-- 主色: `#1a1a2e` (深蓝黑)
-- 强调色: `#e94560` (活力红)
-- 背景浅色: `#f8f9fa`
-- 背景深色: `#0f0f23`
+主页在 `docs/index.md` 的 `<style>` 块中使用 CSS 自定义属性，暖色调配色方案。
 
 ### 字体
 
-- 标题: Playfair Display
-- 正文: Source Sans Pro
+- 展示字体: Georgia / Noto Serif SC
+- 正文: 系统无衬线字体
 - 代码: JetBrains Mono
 
 ## 许可证
