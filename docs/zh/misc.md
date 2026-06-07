@@ -1,3 +1,8 @@
+---
+prev: false
+next: false
+---
+
 # 扯淡篇
 
 ## 聊聊国内的IT培训

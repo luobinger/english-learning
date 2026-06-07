@@ -1,3 +1,8 @@
+---
+prev: false
+next: false
+---
+
 # Misc (Random Thoughts)
 
 Source (中文): [扯淡篇](/zh/misc)
