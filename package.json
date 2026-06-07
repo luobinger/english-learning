@@ -8,7 +8,11 @@
     "build": "vitepress build",
     "preview": "vitepress preview"
   },
-  "keywords": ["english", "learning", "vitepress"],
+  "keywords": [
+    "english",
+    "learning",
+    "vitepress"
+  ],
   "author": "byoungd",
   "license": "CC-BY-NC-4.0",
   "devDependencies": {

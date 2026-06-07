@@ -93,8 +93,6 @@
 
 ![词典](/assets/dict.jpg)
 
-![单词本 App](/assets/word-list-app.png)
-
 ---
 
 ::: warning 注意

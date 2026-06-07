@@ -38,7 +38,6 @@ export default defineConfig({
             { text: '口语篇', link: '/zh/speaking' },
             { text: '写作篇', link: '/zh/writing' },
             { text: 'AI 篇', link: '/zh/ai' },
-            { text: '单词本', link: '/zh/word-list' },
             { text: '杂谈篇', link: '/zh/misc' }
           ]
         }
@@ -54,15 +53,11 @@ export default defineConfig({
             { text: 'Speaking', link: '/en/speaking' },
             { text: 'Writing', link: '/en/writing' },
             { text: 'AI', link: '/en/ai' },
-            { text: 'Word List', link: '/en/word-list' },
             { text: 'Miscellaneous', link: '/en/misc' }
           ]
         }
       ]
     },
-    footer: {
-      message: 'Released under CC BY-NC 4.0',
-      copyright: `Copyright © 2017–${new Date().getFullYear()} byoungd`
-    }
+    footer: false
   }
 })

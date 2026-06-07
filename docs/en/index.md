@@ -37,7 +37,6 @@ This guide is my attempt to organize what I've learned and share it with more pe
 
 ### Part II - Extended
 
-- [Word Lists](./word-list.md) - Technical vocabulary for programmers
 - [Miscellaneous](./misc.md) - Various tips and insights
 
 ---
@@ -52,19 +51,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 **Love for learning** is the same.
 
 ---
-
-## Word Lists for Programmers
-
-- Common - General technical terms
-- JavaScript
-- Python
-- Java
-- Go
-- Rust
-- Swift
-- PHP
-- Prompt Engineering
-- Vibe Coding
 
 ---
 

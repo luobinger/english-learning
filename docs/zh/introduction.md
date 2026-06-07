@@ -95,10 +95,6 @@ An advanced guide to learn English which might benefit you a lot.
 
 ### 第二部分 · 扩展内容
 
-![单词本](/assets/word-list@2x.svg)
-
-**[单词本](./word-list.md)** — 程序员技术词汇表，覆盖主流编程语言和技术方向的专业术语。
-
 ![杂谈篇](/assets/Others@2x.svg)
 
 **[杂谈篇](./misc.md)** — 各种技巧和心得，关于 IT 培训、碎片化学习、Kindle 与 iPad 的思考。

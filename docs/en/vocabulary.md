@@ -95,8 +95,6 @@ When your vocabulary exceeds 7,000, you should have the skill to learn "new word
 
 ![Dictionary](/assets/dict.jpg)
 
-![Word List App](/assets/word-list-app.png)
-
 ---
 
 ::: warning Note

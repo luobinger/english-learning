@@ -1,1 +1,347 @@
-/* Custom theme styles */
+/* ═══════════════════════════════════════════════════
+   English Level Up Tips — Global Brand Theme
+   Extends VitePress Default Theme
+   ═══════════════════════════════════════════════════ */
+
+/* ── Design Tokens ── */
+:root {
+  /* Brand palette */
+  --brand-accent: #c1663b;
+  --brand-accent-hover: #a8553a;
+  --brand-accent-light: rgba(193, 102, 59, 0.08);
+  --brand-sage: #6b8f71;
+  --brand-sage-light: rgba(107, 143, 113, 0.08);
+
+  /* Typography */
+  --font-display: 'Georgia', 'Noto Serif SC', 'Noto Serif', 'Times New Roman', serif;
+  --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'SF Mono', monospace;
+
+  /* VitePress variable overrides */
+  --vp-c-brand-1: var(--brand-accent);
+  --vp-c-brand-2: var(--brand-accent-hover);
+  --vp-c-brand-3: #d4845a;
+  --vp-c-brand-soft: var(--brand-accent-light);
+
+  --vp-c-text-1: #1a1a1a;
+  --vp-c-text-2: #4a4a4a;
+  --vp-c-text-3: #8a8a8a;
+
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-soft: #f8f8f8;
+  --vp-c-bg-soft-up: #f0f0f0;
+
+  --vp-c-border: #e8e8e8;
+  --vp-c-border-hard: #d0d0d0;
+
+  --vp-c-divider: #e8e8e8;
+
+  --vp-font-family-base: var(--font-body);
+  --vp-font-family-mono: var(--font-mono);
+
+  --vp-shadow-1: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --vp-shadow-2: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --vp-shadow-3: 0 8px 24px rgba(0, 0, 0, 0.12);
+
+  /* Spacing */
+  --vp-layout-max-width: 1280px;
+  --vp-sidebar-width: 260px;
+
+  /* Radii */
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 20px;
+
+  /* Transitions */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* ── Dark Mode ── */
+.dark {
+  --vp-c-brand-1: #d4845a;
+  --vp-c-brand-2: #e09570;
+  --vp-c-brand-3: #c1663b;
+  --vp-c-brand-soft: rgba(212, 132, 90, 0.12);
+
+  --vp-c-text-1: #e8e8e8;
+  --vp-c-text-2: #b0b0b0;
+  --vp-c-text-3: #888888;
+
+  --vp-c-bg: #1a1a1a;
+  --vp-c-bg-soft: #242424;
+  --vp-c-bg-soft-up: #2a2a2a;
+
+  --vp-c-border: #333333;
+  --vp-c-border-hard: #444444;
+  --vp-c-divider: #333333;
+
+  --vp-shadow-1: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --vp-shadow-2: 0 4px 12px rgba(0, 0, 0, 0.3);
+  --vp-shadow-3: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+/* ── Typography ── */
+.VPDoc h1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: var(--vp-c-text-1);
+  font-size: clamp(28px, 3.5vw, 40px);
+  line-height: 1.2;
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 24px;
+}
+
+.VPDoc h2 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  font-size: clamp(22px, 2.5vw, 30px);
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding-bottom: 8px;
+  margin-top: 48px;
+  margin-bottom: 16px;
+}
+
+.VPDoc h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 32px;
+  margin-bottom: 12px;
+}
+
+.VPDoc p {
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--vp-c-text-2);
+  margin-bottom: 16px;
+}
+
+.VPDoc ul, .VPDoc ol {
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--vp-c-text-2);
+}
+
+.VPDoc a:not(.VPButton):not(.VPLink) {
+  color: var(--brand-accent);
+  text-decoration: none;
+  transition: color 0.2s var(--ease-out);
+  font-weight: 500;
+}
+
+.VPDoc a:hover:not(.VPButton):not(.VPLink) {
+  color: var(--brand-accent-hover);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.VPDoc blockquote {
+  border-left: 3px solid var(--brand-accent);
+  background: var(--brand-accent-light);
+  padding: 16px 20px;
+  margin: 24px 0;
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  color: var(--vp-c-text-2);
+  font-style: normal;
+}
+
+.dark .VPDoc blockquote {
+  background: var(--vp-c-bg-soft);
+}
+
+.VPDoc code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background: var(--vp-c-bg-soft);
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: var(--brand-accent);
+}
+
+.VPDoc pre {
+  border: 1px solid var(--vp-c-border);
+  border-radius: var(--radius-lg);
+  font-size: 14px;
+}
+
+.VPDoc img {
+  border-radius: var(--radius-lg);
+  box-shadow: var(--vp-shadow-2);
+}
+
+.VPDoc hr {
+  border: none;
+  border-top: 1px solid var(--vp-c-divider);
+  margin: 48px 0;
+}
+
+/* ── Tables ── */
+.VPDoc table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--vp-c-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  font-size: 14px;
+}
+
+.VPDoc table th {
+  background: var(--vp-c-bg-soft);
+  font-family: var(--font-display);
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.VPDoc table th:first-child { border-top-left-radius: var(--radius-lg); }
+.VPDoc table th:last-child { border-top-right-radius: var(--radius-lg); }
+
+/* ── Navbar ── */
+.VPNav {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.82);
+  border-bottom: 1px solid var(--vp-c-border);
+}
+
+.dark .VPNav {
+  background: rgba(26, 26, 26, 0.82);
+}
+
+.VPNavBarTitle .title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.VPNavBarMenuLink:hover,
+.VPNavBarMenuGroup .text:hover {
+  color: var(--brand-accent);
+}
+
+/* Active nav indicator */
+.VPNavBarMenuLink.active {
+  color: var(--brand-accent);
+}
+
+/* ── Sidebar ── */
+.VPSidebar {
+  border-right: 1px solid var(--vp-c-divider);
+}
+
+.VPSidebarItem .item .text {
+  font-size: 14px;
+  line-height: 1.6;
+  transition: color 0.15s var(--ease-out);
+}
+
+.VPSidebarItem .item:hover .text {
+  color: var(--brand-accent);
+}
+
+.VPSidebarItem.is-active > .item .text {
+  color: var(--brand-accent);
+  font-weight: 600;
+}
+
+.VPSidebarItem .caret:hover {
+  color: var(--brand-accent);
+}
+
+/* Sidebar group headers */
+.VPSidebarItem .item .caret + .text {
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+/* ── Footer ── */
+.VPFooter {
+  border-top: 1px solid var(--vp-c-divider) !important;
+  padding: 24px 0 !important;
+}
+
+/* ── Prev/Next Links ── */
+.VPDoc .prev-next .pager-link {
+  border: 1px solid var(--vp-c-border);
+  border-radius: var(--radius-lg);
+  padding: 16px 20px;
+  transition: all 0.25s var(--ease-out);
+}
+
+.VPDoc .prev-next .pager-link:hover {
+  border-color: var(--brand-accent);
+  box-shadow: var(--vp-shadow-2);
+}
+
+.VPDoc .prev-next .pager-link .desc {
+  color: var(--brand-accent);
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--vp-c-border-hard);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--brand-accent);
+}
+
+/* ── Selection ── */
+::selection {
+  background: var(--brand-accent-light);
+  color: var(--brand-accent);
+}
+
+.dark ::selection {
+  background: rgba(212, 132, 90, 0.2);
+  color: #e09570;
+}
+
+/* ── Focus ── */
+:focus-visible {
+  outline: 2px solid var(--brand-accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* ── Layout Breathing ── */
+.VPDoc .container {
+  padding-top: 24px;
+  padding-bottom: 64px;
+}
+
+.VPDoc .content {
+  max-width: 720px;
+}
+
+/* ── Doc Footer Meta ── */
+.VPDoc .meta {
+  color: var(--vp-c-text-3);
+  font-size: 13px;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .VPDoc h1 { font-size: clamp(24px, 6vw, 32px); }
+  .VPDoc h2 { font-size: clamp(20px, 4vw, 26px); }
+  .VPDoc .content { max-width: 100%; padding: 0 4px; }
+}
+
+/* ── Print ── */
+@media print {
+  .VPNav, .VPSidebar, .VPFooter { display: none !important; }
+  .VPDoc .container { padding-top: 0; }
+}

@@ -23,8 +23,8 @@ No linter, formatter, or test runner is configured.
 ### Content layer (`docs/`)
 
 - `docs/index.md` — Homepage (`layout: page`, has ~520 lines of inline CSS in a `<style>` block, plus Vue `<script setup>` for IntersectionObserver fade-in animations)
-- `docs/zh/` — Chinese chapter content (11 files: `index.md`, `introduction.md`, `understanding.md`, `vocabulary.md`, `listening.md`, `reading.md`, `speaking.md`, `writing.md`, `ai.md`, `word-list.md`, `misc.md`)
-- `docs/en/` — English mirror (10 files: `index.md`, plus mirror of all zh/ chapters except `introduction.md`)
+- `docs/zh/` — Chinese chapter content (10 files: `index.md`, `introduction.md`, `understanding.md`, `vocabulary.md`, `listening.md`, `reading.md`, `speaking.md`, `writing.md`, `ai.md`, `misc.md`)
+- `docs/en/` — English mirror (9 files: `index.md`, plus mirror of all zh/ chapters except `introduction.md`)
 - `docs/public/logo.svg` — Site logo (also used as favicon)
 - `docs/public/assets/` — 41 shared image assets (SVGs, PNGs, JPEGs)
 
