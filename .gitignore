@@ -1,8 +1,16 @@
 node_modules/
 .vitepress/dist/
 .vitepress/cache/
-.DS_Store
 English-level-up-tips/
 *.log
-# Design preview screenshots (not production assets)
-*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Root-level design preview screenshots (not production assets)
+/about-page*.png
+/content-page*.png
+/desktop-preview.png
+/mobile-preview*.png
+/test*.png

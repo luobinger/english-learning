@@ -96,6 +96,6 @@ If you are interested in this project, [you can join and contribute](https://git
 
 I was very happy that I could finish it after more than a year of continuous development, instead of giving up halfway.
 
-Today's lesson was very long, but fortunately，it is `OVER` now.
+Today's lesson was very long, but fortunately, it is `OVER` now.
 
 Thank you for your attention and I hope you learned something useful.

@@ -1,3 +1,7 @@
+---
+title: Vocabulary
+---
+
 # Vocabulary
 
 Vocabulary is the foundation of a language. If you try to "skip vocabulary" and jump straight to advanced materials, you'll usually end up spending (more accurately: wasting) even more time later.
@@ -6,7 +10,7 @@ The good news: vocabulary has a very obvious tipping point. Once your vocabulary
 
 Here's a classic distribution chart:
 
-![Vocabulary distribution (OEC)](/assets/OCE%20Artboard@2x.png)
+![Vocabulary distribution (OEC)](/assets/OCE-Artboard@2x.png)
 
 > Original data: Oxford English Corpus (OEC). The author recreated the chart in Sketch.
 

@@ -1,3 +1,7 @@
+---
+title: Understanding
+---
+
 # Understanding
 
 This chapter is about mindset. Before you grind vocabulary and drills, it's worth getting a few things straight—otherwise you'll work hard, feel miserable, and still get stuck.

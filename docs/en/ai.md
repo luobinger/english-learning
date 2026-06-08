@@ -1,3 +1,7 @@
+---
+title: AI Learning (2026 Edition)
+---
+
 # AI Learning (2026 Edition)
 
 > This chapter is updated based on online information as of 2026-03-20.

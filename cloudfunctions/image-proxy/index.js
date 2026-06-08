@@ -46,6 +46,15 @@ const server = http.createServer(async (req, res) => {
       return;
     }
 
+    // Security: validate file path to prevent path traversal
+    const ALLOWED_PREFIXES = ["cloudstorage/", "images/"];
+    const normalizedPath = filePath.replace(/\\/g, "/").replace(/\.\.+/g, "");
+    const isAllowed = ALLOWED_PREFIXES.some(prefix => normalizedPath.startsWith(prefix));
+    if (!isAllowed) {
+      sendError(res, 403, "Access denied: path must start with allowed prefix");
+      return;
+    }
+
     try {
       const result = await app.downloadFile({ fileID: filePath });
       const mimeType = getMimeType(filePath);

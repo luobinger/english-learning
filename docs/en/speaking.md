@@ -1,3 +1,7 @@
+---
+title: Speaking
+---
+
 # Speaking
 
 Speaking is where everything comes together. And yes—pronunciation matters, but you don't need to obsess. You just need a solid base and a lot of reps.

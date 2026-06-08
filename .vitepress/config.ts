@@ -19,6 +19,8 @@ export default defineConfig({
       }
     }
   },
+  lastUpdated: true,
+  cleanUrls: true,
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
@@ -47,6 +49,7 @@ export default defineConfig({
         {
           text: 'Chapters',
           items: [
+            { text: 'Introduction', link: '/en/introduction' },
             { text: 'Understanding', link: '/en/understanding' },
             { text: 'Vocabulary', link: '/en/vocabulary' },
             { text: 'Listening', link: '/en/listening' },
@@ -54,11 +57,61 @@ export default defineConfig({
             { text: 'Speaking', link: '/en/speaking' },
             { text: 'Writing', link: '/en/writing' },
             { text: 'AI', link: '/en/ai' },
+            { text: 'Real Life English', link: '/en/week-1' },
             { text: 'Miscellaneous', link: '/en/misc' }
           ]
         }
       ]
     },
-    footer: false
+
+    search: {
+      provider: 'local',
+      options: {
+        locales: {
+          zh: {
+            translations: {
+              button: {
+                buttonText: '搜索',
+                buttonAriaLabel: '搜索'
+              },
+              modal: {
+                noResultsText: '无法找到相关结果',
+                resetButtonTitle: '清除查询条件',
+                footer: {
+                  selectText: '选择',
+                  navigateText: '切换',
+                  closeText: '关闭'
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    outline: {
+      level: [2, 3],
+      label: '页面导航'
+    },
+
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/byoungd/English-level-up-tips' }
+    ],
+
+    editLink: {
+      pattern: 'https://github.com/byoungd/English-level-up-tips/edit/master/docs/:path',
+      text: '在 GitHub 上编辑此页'
+    },
+
+    footer: {
+      message: 'Released under the CC-BY-NC-4.0 License.',
+      copyright: 'Copyright © 2017-present byoungd'
+    },
+
+    returnToTopLabel: '回到顶部',
+    sidebarMenuLabel: '菜单',
+    darkModeSwitchLabel: '主题',
+    lightModeSwitchTitle: '切换到浅色模式',
+    darkModeSwitchTitle: '切换到深色模式'
   }
 })

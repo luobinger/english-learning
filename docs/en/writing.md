@@ -1,3 +1,7 @@
+---
+title: Writing
+---
+
 # Writing
 
 Hi—welcome to *English Level-up Tips*.

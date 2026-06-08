@@ -54,6 +54,29 @@ The homepage (`docs/index.md`) contains an inline `<style>` block that defines:
 
 ## Content Conventions
 
+### ⚠️ 严禁使用在国内无法直接访问的内容
+
+本项目面向中国大陆用户，所有页面元素、资源引用必须在国内网络环境下可正常访问。
+
+**禁止引用的外部资源：**
+- 外部 CDN 托管的 JS/CSS/字体（如 `fonts.googleapis.com`、`cdnjs.cloudflare.com`、`cdn.jsdelivr.net`、`unpkg.com` 等）
+- Google 系服务（Google Fonts、Google Analytics、Google reCAPTCHA、Google Tag Manager 等）
+- 被墙平台的嵌入内容（YouTube `<iframe>`、Twitter/Facebook/Instagram 嵌入等）
+- 外部图片图床（所有图片必须下载到 `docs/public/assets/` 本地引用）
+
+**文字链接注意事项：**
+- YouTube、Medium、Reddit、Twitter 等被墙平台的链接在现有内容中作为参考引用存在，不强制替换
+- 新增内容应优先使用国内可访问的替代平台（如 B 站替代 YouTube、知乎/掘金替代 Medium）
+- 如必须引用被墙平台，应同时提供国内可访问的替代链接
+
+**合规做法：**
+- 图片 → 下载到 `docs/public/assets/`，用 `/assets/<filename>` 引用
+- 字体 → 使用系统字体栈或本地字体文件
+- JS/CSS → 使用 VitePress 内置或本地文件
+- 徽章/图标 → 下载到本地
+
+
+
 - Markdown files use VitePress frontmatter (`title`, `layout`, etc.) — all chapter files have at least `title`
 - Pages use standard Markdown syntax with inline HTML where needed (no custom Vue components in use)
 - Sidebar structure is defined in `.vitepress/config.ts` under `themeConfig.sidebar`

@@ -1,4 +1,5 @@
 ---
+title: Miscellaneous
 prev: false
 next: false
 ---
